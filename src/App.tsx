@@ -9,6 +9,7 @@ function App() {
           <div>App</div>
           <div>Dev brunch commit 1</div>
               <div>Dev brunch commit 2</div>
+              <div>Dev brunch commit 3</div>
           </div>
               <p>
           Edit <code>src/App.tsx</code> and save to reload.
