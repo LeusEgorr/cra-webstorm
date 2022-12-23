@@ -19,6 +19,7 @@ function App() {
         </a>
       </header>
        <p>11</p>
+        <p>2</p>
     </div>
   );
 }
