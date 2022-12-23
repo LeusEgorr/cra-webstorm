@@ -12,6 +12,8 @@ function App() {
               <div>Dev brunch commit 3</div>
               <div>developer/popup branch commit 1</div>
               <div>developer/popup branch commit 2</div>
+              <div>developer/login branch commit 1</div>
+              <div>developer/login branch commit 2</div>
           </div>
               <p>
           Edit <code>src/App.tsx</code> and save to reload.
